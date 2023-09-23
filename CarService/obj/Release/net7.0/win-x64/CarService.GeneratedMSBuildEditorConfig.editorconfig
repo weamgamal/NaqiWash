@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CarService
+build_property.RootNamespace = CarService
+build_property.ProjectDir = D:\projects\Mostaqel\Wash sestem\edit\merge5\CarService\CarService\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\projects\Mostaqel\Wash sestem\edit\merge5\CarService\CarService
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/AdminLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZG1pbkxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/AdminRegister.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxBZG1pblJlZ2lzdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CallCenterLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDYWxsQ2VudGVyTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CallCenterRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDYWxsQ2VudGVyUmVnaXN0cmF0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CallCenterUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDYWxsQ2VudGVyVXNlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CoordenatorLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb29yZGVuYXRvckxvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CoordinatorRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb29yZGluYXRvclJlZ2lzdHJhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/CoordinatorUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxDb29yZGluYXRvclVzZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/TechnicanLogin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUZWNobmljYW5Mb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/TechnicanRegistration.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUZWNobmljYW5SZWdpc3RyYXRpb24uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Account/TechnicanUsers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxUZWNobmljYW5Vc2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Admin/AddCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkQ2l0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Admin/AddService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQWRkU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Admin/ViewCallCenters.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cVmlld0NhbGxDZW50ZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/CallCenters/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbENlbnRlcnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/CallCenters/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FsbENlbnRlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Cities/CallCenterIndx.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENhbGxDZW50ZXJJbmR4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Cities/CoordinatorIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXENvb3JkaW5hdG9ySW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Cities/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Cities/QualityIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXFF1YWxpdHlJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Cities/TechnicalIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0aWVzXFRlY2huaWNhbEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Coordenator/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29vcmRlbmF0b3JcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/CallCenter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDYWxsQ2VudGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/CoordinationSection.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb29yZGluYXRpb25TZWN0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/LogIn.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dJbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/Order.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxPcmRlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/SignUp.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaWduVXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/systemIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzeXN0ZW1JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/sytemIndex.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxzeXRlbUluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/Table.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Home/Thiecnican.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGllY25pY2FuLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/NewDasboard/AddCity.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3RGFzYm9hcmRcQWRkQ2l0eS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/NewDasboard/AddService.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3RGFzYm9hcmRcQWRkU2VydmljZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/NewDasboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTmV3RGFzYm9hcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Rules/New.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUnVsZXNcTmV3LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Shared/_Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9EYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Shared/_NavAndFooter.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZBbmRGb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/Technican/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVjaG5pY2FuXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/UserInfo/FormInfo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlckluZm9cRm9ybUluZm8uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/projects/Mostaqel/Wash sestem/edit/merge5/CarService/CarService/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
